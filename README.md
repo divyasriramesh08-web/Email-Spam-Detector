@@ -22,5 +22,13 @@ Traditional email filtering systems may fail to identify some spam emails. Some 
 
 The proposed system uses Python and Machine Learning techniques to identify spam and legitimate emails. It analyzes email content and classifies messages as Spam or Not Spam, helping users maintain a safer and cleaner inbox.
 
+## Technologies Used
+
+- Programming Language: Python
+- Machine Learning: Scikit-learn
+- Data Processing: Pandas and NumPy
+- Development Platform: Google Colab
+- Dataset: Email Spam Dataset
+
 
 
