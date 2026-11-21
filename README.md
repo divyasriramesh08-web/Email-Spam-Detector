@@ -30,5 +30,13 @@ The proposed system uses Python and Machine Learning techniques to identify spam
 - Development Platform: Google Colab
 - Dataset: Email Spam Dataset
 
+## System Workflow
+
+1. Collect the email dataset.
+2. Preprocess and clean the email text.
+3. Extract important text features.
+4. Train the Machine Learning model.
+5. Test the model with sample emails.
+6. Classify emails as Spam or Not Spam.
 
 
