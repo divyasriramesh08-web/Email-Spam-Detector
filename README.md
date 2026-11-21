@@ -67,3 +67,34 @@ The proposed system uses Python and Machine Learning techniques to identify spam
 
 The Email Spam Detector project uses Python and Machine Learning to classify emails as Spam or Not Spam. It aims to reduce unwanted emails, improve email security, and provide a simple and effective spam detection solution.
 
+
+## Project Team
+
+This project is developed as a team mini project by first-year Artificial Intelligence and Machine Learning students.
+1.Divyasri R
+2.Hema Varsha S
+
+
+## Installation and Execution
+
+1. Install Python.
+2. Install the required libraries.
+3. Load the email dataset.
+4. Run the Python program.
+5. Enter a sample email.
+6. View the prediction as Spam or Not Spam.
+
+
+## Sample Output
+
+Input: Congratulations! You have won a free prize. Click here to claim.
+
+Prediction: Spam
+
+Input: Your class assignment has been submitted successfully.
+
+Prediction: Not Spam
+
+## License
+
+This project is developed for educational purposes as a college mini project.
