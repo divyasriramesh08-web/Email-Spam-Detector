@@ -98,6 +98,7 @@ Prediction: Not Spam
 ## License
 
 This project is developed for educational purposes as a college mini project.
+next is Code.
 
 
 
