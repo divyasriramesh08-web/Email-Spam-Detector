@@ -13,3 +13,9 @@ Spam emails are a major problem for email users. They may contain unwanted adver
 ## Project Overview :
 
  "This project detects spam emails using machine learning" .
+
+## Existing System
+
+Traditional email filtering systems may fail to identify some spam emails. Some unwanted emails may reach the inbox, while genuine emails may sometimes be marked as spam.
+
+
